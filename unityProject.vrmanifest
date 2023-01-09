@@ -2,13 +2,13 @@
   "source": "Unity",
   "applications": [
     {
-      "app_key": "application.generated.unity.vrp.exe",
+      "app_key": "application.generated.unity.projectvr.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Unity\\UnityProjects\\VRP\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Unity\\UnityProjects\\ProjectVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
-          "name": "VRP [Testing]"
+          "name": "ProjectVR [Testing]"
         }
       }
     }

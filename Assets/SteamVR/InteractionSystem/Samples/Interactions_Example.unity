@@ -99,7 +99,7 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000001, guid: 08f1e4823ecc8234e88f2849f3d9b2cc,
     type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 5bb9219a099c10b4d8481a02b6ff0c9e,
+  m_LightingSettings: {fileID: 4890085278179872738, guid: cb290024376f40a46b74f458eb43dea1,
     type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -13780,7 +13780,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &954296274
 Canvas:
   m_ObjectHideFlags: 0
@@ -23857,7 +23857,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!223 &1649279628
 Canvas:
   m_ObjectHideFlags: 0

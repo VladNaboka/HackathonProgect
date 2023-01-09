@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ignite
+  - projectile
+  - FxTemporaire
+  - Fire
+  - fireExtinguisher
   layers:
   - Default
   - TransparentFX
@@ -14,10 +17,10 @@ TagManager:
   - UI
   - 
   - 
-  - Grabbable
-  - Hands
-  - Teleporter
-  - NoHandCollide
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
